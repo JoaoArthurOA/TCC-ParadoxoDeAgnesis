@@ -345,8 +345,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/CameraMira.cs"
-"Assets/Movimentos.cs"
+"Assets/Jogador/CameraMira.cs"
+"Assets/Jogador/Estados/EstadoAgacha.cs"
+"Assets/Jogador/Estados/EstadoAnda.cs"
+"Assets/Jogador/Estados/EstadoCorre.cs"
+"Assets/Jogador/Estados/Estadoidle.cs"
+"Assets/Jogador/Estados/MovimentoBase.cs"
+"Assets/Jogador/Estados/Movimentos.cs"
 -langversion:9.0
 
 /deterministic
